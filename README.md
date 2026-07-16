@@ -13,7 +13,7 @@ Everything is one self-contained script: [`make_braid.py`](make_braid.py).
 Both show the same braid `σ₁⁴σ₂⁻¹σ₁σ₂⁻¹` on 3 strands, with `--mark-ends`
 (dashed lines marking where the word starts/ends). The closed diagram colours
 each link component of the closure; the open one is drawn in a single colour
-(`--color-mode single`).
+(`--color-mode single --fg-color tab:orange`).
 
 ---
 
