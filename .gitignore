@@ -12,6 +12,9 @@ __pycache__/
 *.log
 *.out
 
+# ...but keep the example images used by the README
+!docs/*.png
+
 # Editor / OS / local tooling
 .claude/
 .DS_Store
