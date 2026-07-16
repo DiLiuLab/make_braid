@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Generated braid diagrams / LaTeX build artifacts
+*.svg
+*.pdf
+*.png
+*.aux
+*.log
+*.out
+
+# Editor / OS / local tooling
+.claude/
+.DS_Store
+.vscode/
+.idea/
